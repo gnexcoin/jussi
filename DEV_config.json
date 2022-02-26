@@ -11,7 +11,7 @@
       "urls": [
         [
           "steemd",
-         "https://api.steemit.com"
+         "http://gnexportal.com:9000"
         ]
       ],
       "ttls": [
@@ -100,7 +100,7 @@
       "urls": [
         [
           "appbase",
-          "https://api.steemit.com"
+          "http://gnexportal.com:9000"
         ]
       ],
       "ttls": [
